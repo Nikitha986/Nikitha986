@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikitha R</h1>
-<h3 align="center">Final-Year Engineering Student | Aspiring AI & Software Engineer</h3>
+<h3 align="center"> B.E. Artificial Intelligence & Machine Learning Graduate (2026) | Python | C++ | Java | AI/ML | FastAPI | Django | NLP | Computer Vision | Generative AI | Building practical AI-powered solutions. </h3>
 
 <p align="center">
 🌱 Passionate about learning and building real-world projects  
