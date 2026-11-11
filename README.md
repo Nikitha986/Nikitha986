@@ -1,53 +1,47 @@
-<h1 align="center">Hi 👋, I'm Nikitha R</h1>
-<h3 align="center"> B.E. Artificial Intelligence & Machine Learning Graduate (2026) | Python | C++ | Java | AI/ML | FastAPI | Django | NLP | Computer Vision | Generative AI | Building practical AI-powered solutions. </h3>
 
-<p align="center">
-🌱 Passionate about learning and building real-world projects  
-🚀 Interested in AI, Software Development & Data Science  
-🎯 Actively seeking Internship & Entry-Level Opportunities  
-</p>
+# Hi, I'm Nikitha R! 👋
 
----
+🎓 B.E. Graduate in Artificial Intelligence & Machine Learning (2026)
 
+I'm passionate about building intelligent applications, developing software solutions, and exploring emerging AI technologies.
 
-## 🛠️ Technical Skills
+## 💻 Technical Interests
+- Artificial Intelligence & Machine Learning
+- Python Development and Backend Engineering
+- Generative AI and Large Language Models
+- Natural Language Processing
+- Computer Vision
+- Android Application Development
 
-**Languages**
-- Python  
-- Java  
-- C  
-- SQL  
+## 🛠️ Tech Stack
 
-**Technologies**
-- Machine Learning (Basics)  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
+**Languages:** Python, C++, Java, C, Kotlin, SQL
 
----
+**Frameworks:** FastAPI, Flask, Django, Jetpack Compose
 
-## 🚀 Projects
+**AI/ML:** TensorFlow, Scikit-learn, LangChain, LangGraph
 
-### 🔹 Intelligent Sign Language Recognition System
-- Recognizes sign language gestures using ML  
-- Helps improve accessibility  
+**Databases:** PostgreSQL, MySQL
 
-### 🔹 Data Analysis Project
-- Cleaned and analyzed datasets  
-- Visualized insights  
+**Tools:** Git, GitHub, Docker, Postman, Android Studio
 
----
+## 🚀 Featured Projects
+- Sign Language Recognition & Translation System
+- Karunada-Vanya – Wildlife Education & Alert App
+- Phishing URL Detection
+- Hospital Management System
+- Market Research & Impact Analysis Framework
 
+## 🎯 Current Goals
+- Strengthening problem-solving and DSA skills
+- Building practical AI-powered applications
+- Exploring software engineering and AI/ML opportunities
+- Continuously learning and improving my technical skills
 
+## 🤝 Connect With Me
 
----
-
-## 🤝 Contact Me
-
-- 📧 Email: nikithajyothi21@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/nikitha-r988  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nikitha-r988)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Nikitha986)
 
 ---
-
-<p align="center">
-✨ Thank you for visiting my GitHub profile ✨
-</p>
+⭐ *Always learning, building, and exploring new technologies.*
