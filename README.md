@@ -9,15 +9,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 Final-year Engineering student  
-- 🤖 Interested in Artificial Intelligence & Machine Learning  
-- 💻 Love solving problems through code  
-- 📊 Enjoy working with data  
-- 💡 Believe in continuous learning
-
----
 
 ## 🛠️ Technical Skills
 
